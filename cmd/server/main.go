@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/rahmandaniwinarta/flip-lite/internal/database"
+	"digital-product-service/internal/database"
 )
 
 func main() {

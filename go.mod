@@ -1,4 +1,4 @@
-module github.com/rahmandaniwinarta/flip-lite
+module digital-product-service
 
 go 1.23.0
 
