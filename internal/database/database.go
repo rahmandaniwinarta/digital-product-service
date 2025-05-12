@@ -12,7 +12,7 @@ import (
 
 // Embed migration files
 //
-//go:embed migration/*.sql
+//go:embed sql_migrations/*.sql
 var dbMigrations embed.FS
 
 var DB *sql.DB
